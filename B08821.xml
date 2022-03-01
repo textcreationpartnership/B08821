@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confessions and execution of the two Jesuits drawn, hang'd and quartered at Tyburn on Friday the 24th of January, 1678/9 for high treason viz. William Ireland and John Grove, with their carriage and behaviour.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08821</idno>
+            <idno type="STC">Wing C5802AA</idno>
+            <idno type="STC">ESTC R174141</idno>
+            <idno type="EEBO-CITATION">62369123</idno>
+            <idno type="OCLC">ocm 62369123</idno>
+            <idno type="VID">187849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187849)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2846:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confessions and execution of the two Jesuits drawn, hang'd and quartered at Tyburn on Friday the 24th of January, 1678/9 for high treason viz. William Ireland and John Grove, with their carriage and behaviour.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland, William, 1636-1679 --  Trials, litigation, etc.</term>
+               <term>Grove, John, d. 1679 --  Trials, litigation, etc.</term>
+               <term>Popish Plot, 1678.</term>
+               <term>Trials (Treason) --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187849:1"/>
+            <pb facs="tcp:187849:1" rendition="simple:additions"/>
+            <p> THE CONFESSIONS AND EXECUTION OF THE Two Jeſuits, Drawn, Hang'd, and Quartered at TYBURN, On <hi>Friday</hi> the 24th of <hi>January,</hi> 1678/9. For HIGH TREASON. VIZ. <hi>WILLIAM IRELAND,</hi> AND <hi>JOHN GROVE.</hi> With their Carriage and Behaviour.</p>
+            <q>
+               <hi>Tanium Religio potuit ſuadere Malorum?</hi>
+            </q>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>LICENSED, 1678/9.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. G.</hi> 1679.</p>
+            <pb facs="tcp:187849:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:187849:2" rendition="simple:additions"/>
+            <head>THE CONFESSIONS and EXECUTION OF The two Jeſuits FOR HIGH-TREASON.</head>
+            <p>
+               <hi>COuld it be imagined, that it could ever enter into the heart of Man to commit Murder un<g ref="char:EOLhyphen"/>der a Conceit of Religion; or for God's ſake Traiterouſly to kill not only God's Image, but his Vicegerent too? Could it be thought, that under the moſt obliging, beſt-natur'd, and gracious Prince in the World, any perſons could be found ſo profligately wicked, as to Conſpire againſt his Life? And this too amongst a ſort of men that have made ſuch mighty boasts of their Loyalty! What Sentiments muſt we have of ſuch People? Or how can we expreſs their Tempers better, than in that Expoſtulation of the Re<g ref="char:EOLhyphen"/>verend Author of</hi> The Practice of Piety? <hi>P.</hi> 783.
+<pb n="2" facs="tcp:187849:3" rendition="simple:additions"/> If they are Saints, who be Scythians? Who are Can<g ref="char:EOLhyphen"/>nibals, if they Catholicks?</p>
+            <p>On <hi>Tueſday</hi> the <hi>14th.</hi> of <hi>Decemb.</hi> 1678, there were Three of theſe Romiſh Emiſſaries, on a moſt fair and equal Tryal, Condemned to die, not in the leaſt for their Religion, unleſs Treaſon and Murder be an eſſen<g ref="char:EOLhyphen"/>tial conſtitutive part of it; not for being Roman Ca<g ref="char:EOLhyphen"/>tholicks (as they abſurdly love to call themſelves) nor for being Popiſh Prieſts, or ſeducing good Subjects to their Idolatrous and Traiterous Principles: though both theſe latter Facts they know are made Capital by our moſt neceſſary Laws, for preſervation of the Government. 'Twas not, I ſay, for any of theſe Cauſes; and therefore let not any of their Party at home or abroad, who make Lies their Refuge, and devote all their Endeavours to miſrepreſent things, cry out, as they were wont to do, and too lately, with an impudence to be equall'd by nothing but their ma<g ref="char:EOLhyphen"/>lice, have done. That the poor innocent Catholicks are proſecuted, perſecuted, martyr'd, <hi>&amp;c.</hi> for their Religion.</p>
+            <p>But to ſatisfie all the World, Be it known, they were Apprehended, Tryed, Convicted and Condemn<g ref="char:EOLhyphen"/>ed for the higheſt of Crimes; for it was a crime of the ſame ſpecies that at firſt made Angels Devils, I mean Treaſon, High Treaſon, aggravated to the higheſt pitch; being not only to deſtroy our eſtabliſht Religi<g ref="char:EOLhyphen"/>on, but likewiſe ſubvert the Government, and in or<g ref="char:EOLhyphen"/>der
+<pb n="3" facs="tcp:187849:3" rendition="simple:additions"/> thereunto to Murther His Moſt Gracious Majeſty, our Soveraign Lord the King (whom, may the Hand of Heaven, as hitherto through a Thouſand dangers from different Factions, ſo ever protect, and long pre<g ref="char:EOLhyphen"/>ſerve.)</p>
+            <p>As for the qualities of theſe perſons, we have little to ſay; If any of them were well deſcended, or rela<g ref="char:EOLhyphen"/>ted, we are ſorry they ſhould not retain that loyalty and vertue which had added luſter to their Anceſtors. One of them was without diſpute of the Jeſuits Order, and a man of parts; the other two (as far as I can learn) but Lay brothers of the Society: The firſt inſtigated the laſt to the horrid attempt: But as to par<g ref="char:EOLhyphen"/>ticulars of the proof, I refer the Reader to a peculiar Narrative, which is expected from Authority, of the whole procedure.</p>
+            <p>The Holy-days intervening, and upon ſome other im<g ref="char:EOLhyphen"/>portant conſiderations, they had a large time allowed them for Repentance, and fitting themſelves for Death; but on <hi>Friday</hi> the 24th of this inſtant <hi>January,</hi> two of them, <hi>viz. William Ireland</hi> and <hi>John Grove</hi> were brought to Execution (the other, for good reaſons, being for the preſent reſpited): They were drawn both together in one Sledge, with White Hats, and Grey-Clothes; one of them had a Book in his hand, and was often obſerv'd to whiſper to the other.</p>
+            <pb n="4" facs="tcp:187849:4" rendition="simple:additions"/>
+            <p>By the vaſt multitudes that crouded to ſee them paſs, and the general ſenſe of the people, it was apparent how zealous the Engliſh Nation in general, and this famous City in particular, are in their reſpects to his Majeſty, and how concern'd to bring all thoſe to juſt puniſhment that ſhall any way make attempts againſt His Sacred perſon, or endeavour to deſtroy the Proteſtant Religion, and introduce abominabie Popery, which can never be effected without ſubverſion of the Government.</p>
+            <p>At the place of Execution, they ſaid ſomething, as Prayers; but otherwiſe talked little that could be heard, by reaſon of the vaſt throng of Spectators; and ſo ſuffered moſt deſervedly according to the dread<g ref="char:EOLhyphen"/>ful ſentence.</p>
+            <p>But ſince there is ſo much talk of <hi>Jeſuits,</hi> and in<g ref="char:EOLhyphen"/>deed not only we, but all <hi>Europe,</hi> has reaſon enough to beware of them; It may not be amiſs to give the Reader ſome account of the Original of thoſe trouble<g ref="char:EOLhyphen"/>ſome Companions, how long they have been in the World, and who was their Founder.</p>
+            <p>The perſon that Inſtituted them, was <hi>Ignatius Loy<g ref="char:EOLhyphen"/>ola,</hi> a Spaniſh Soldier, in the year 1540. He had been a fellow debauched in his youth, and having ſpent all his Patrimony, grew ſo devout, as to ſet up for a New Order, whom blaſphemouſly he called, <hi>The Fel<g ref="char:EOLhyphen"/>lows, Companions, or the ſociety of Jeſus;</hi> and amongſt
+<pb n="5" facs="tcp:187849:4" rendition="simple:additions"/> other Proviſions, beſides the three Vows of <hi>Chastity, Poverty,</hi> and <hi>Obedience,</hi> eſtabliſht, That all Members thereof ſhould take another ſpecial Vow<hi>—That whatever the Roman Biſhop for the time being ſhall Com<g ref="char:EOLhyphen"/>mand, they ſhall execute the ſame without Tergiverſation or excuſe.</hi> This was juſt after <hi>Luther</hi> began the Re<g ref="char:EOLhyphen"/>formation; and the Pope having need of ſuch truſty ſticklers, you may be ſure encouraged them: but that which made them firſt famous, was, Teaching of Schools, which they diſcharged with great diligence and dexte<g ref="char:EOLhyphen"/>rity; thereby, not only engaging Parties, but alſo im<g ref="char:EOLhyphen"/>printing a laſting veneration in Youth for that Socie<g ref="char:EOLhyphen"/>ty under which they had been bred. To tell you all the Lying Miracles they attribute to this <hi>Catholick Lance-preſade,</hi> requires a Volume. I ſhall only ven<g ref="char:EOLhyphen"/>ture to ſhew one piece of their impudence, in the de<g ref="char:EOLhyphen"/>teſtable words of <hi>Valderama,</hi> one of that Order, <hi>de Canoniz. Loyolae, p.</hi> 51.</p>
+            <p>
+               <hi>'Tis not to be wondred, that</hi> Moſes <hi>did very great Miracles, for he wrought them by the power of the Name of God, engraven in his ſtaff: Nor is it any more that the Apoſtles did ſo many wonders, when all was done in the Name of God. But that our bleſſed</hi> Ignatius <hi>ſhould, with his own Name written in a piece of paper, do more Miracles than</hi> Moſes <hi>and all the Apo<g ref="char:EOLhyphen"/>stles put together, this indeed raiſes in us an ex<g ref="char:EOLhyphen"/>ceſs of Admiration for him.</hi>
+            </p>
+            <pb n="6" facs="tcp:187849:5" rendition="simple:additions"/>
+            <p>For my part, I judge the greateſt Miracle we are beholden to him for, is, That he has ſet up ſuch a miſchievous Gang, ſo deſtru<g ref="char:EOLhyphen"/>ctive wherever they come to Government, and yet Chriſtendom ſhould ſuffer them ſo mightily to increaſe.—The ſaid <hi>Loyola</hi>'s Mot<g ref="char:EOLhyphen"/>to was<hi>—Cavete, vobis Principes; where-ever you ſee us, look to your ſelves.—</hi>This is the honeſteſt trick that ever I Read of from a Jeſuit; 'tis fair warning, and they may well be laught at that will not take it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
